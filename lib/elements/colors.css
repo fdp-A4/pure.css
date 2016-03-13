@@ -1,21 +1,37 @@
-a.pure-button-selected {
-    background-color: rgb(0, 120, 231);
+.sidebar {
+    background: rgb(61, 79, 93);
     color: #fff;
 }
 
-/*
-striping:
-   even - #fff (white)
-   odd  - #f2f2f2 (light gray)
-*/
-.pure-table td {
-    background-color: transparent;
-}
-.pure-table-odd td {
-    background-color: #f2f2f2;
+.nav-item a {
+    background: transparent;
+    border: 2px solid rgb(176, 202, 219);
 }
 
-/* nth-child selector for modern browsers */
-.pure-table-striped tr:nth-child(2n-1) td {
-    background-color: #f2f2f2;
+.post-image-meta {
+    color: #fff;
+    text-shadow: 0 1px 1px #333;
+}
+
+
+.post-category-design {
+    background: #5aba59;
+}
+.post-category-pure {
+    background: #4d85d1;
+}
+.post-category-yui {
+    background: #8156a7;
+}
+.post-category-js {
+    background: #df2d4f;
+}
+
+.footer .pure-menu a:hover,
+.footer .pure-menu a:focus {
+    background: none;
+}
+
+.post-category {
+    background: #999;
 }

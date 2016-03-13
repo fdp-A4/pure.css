@@ -1,0 +1,73 @@
+.pure-img-responsive {
+    max-width: 100%;
+    height: auto;
+}
+
+#layout {
+    padding: 0;
+}
+
+.header {
+    text-align: center;
+    top: auto;
+    margin: 3em auto;
+}
+
+.brand-title,
+.brand-tagline {
+    margin: 0;
+}
+
+.nav-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.nav-item {
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+}
+
+.content {
+    padding: 2em 1em 0;
+}
+
+.post {
+    padding-bottom: 2em;
+}
+
+.footer {
+    text-align: center;
+    padding: 1em 0;
+}
+
+
+.post-image-meta {
+    margin-top: -3.5em;
+    margin-left: 1em;
+}
+
+.post-images {
+    margin: 1em 0;
+}
+
+.post-category {
+    margin: 0 0.1em;
+    padding: 0.3em 1em;
+}
+
+.post-title {
+    margin-bottom: 0.2em;
+}
+.post-avatar {
+    border-radius: 50px;
+    float: right;
+    margin-left: 1em;
+}
+
+.content-subhead {
+    border-bottom: 1px solid #eee;
+    padding: 0.4em 0;
+}
