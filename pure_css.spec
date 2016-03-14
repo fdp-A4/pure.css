@@ -1,5 +1,5 @@
 {
-  "name": "pure.css",
+  "name": "pure_css",
   "authors": "Yahoo",
   "email": "richcssa4@gmail.com",
   "description": "A set of small, responsive CSS modules that you can use in every web project.",
